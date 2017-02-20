@@ -1,0 +1,22 @@
+{
+  "name": "AngularBlog",
+  "description": "angularJs web page",
+  "main": "",
+  "authors": [
+    "Vanessa Palacios <vanelunapalacios@live.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular",
+    "js",
+    "node"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
